@@ -1,4 +1,6 @@
 {
+    "name": "Sparhawk.pl - code examples",
+    "description": "Examples of code used on sparhawk.pl site.",
     "type": "project",
     "license": "proprietary",
     "require": {
