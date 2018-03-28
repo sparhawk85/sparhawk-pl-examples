@@ -8,4 +8,4 @@ composer update -o
 2. Run tests
 ```
 php bin/phpunit
-```
+```  
